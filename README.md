@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ladiran001@gmail.com
+- 📫 How to reach me ladiran@gmail.com
 
 <!---
 bolajohn/bolajohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
